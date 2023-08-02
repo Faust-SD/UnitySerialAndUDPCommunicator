@@ -9,14 +9,6 @@ Version: v1.0.1
 Copyright: (C) Copyright 2023 Faust-SD, All Rights Reserved.
 License: MIT License
 */
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class DataReaders : MonoBehaviour
-{
-    // ÆäËû´úÂë...
-}
 
 using System.IO;
 using System.IO.Ports;
