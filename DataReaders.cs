@@ -9,7 +9,6 @@ Version: v1.0.1
 Copyright: (C) Copyright 2023 Faust-SD, All Rights Reserved.
 License: MIT License
 */
-
 using System.IO;
 using System.IO.Ports;
 using System.Net;
